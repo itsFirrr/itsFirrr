@@ -51,8 +51,8 @@ Building end-to-end solutions — from embedded firmware to web dashboards.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsfirrr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfirrr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsFirrr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFirrr&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
