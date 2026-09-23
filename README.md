@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmad Firdaus 👋
 
-### Full-Stack Developer | IoT Enthusiast | D-IV TKJ Student @ PNUP
+### Full-Stack Developer | IoT Enthusiast | Vibe Coder ✨ | D-IV TKJ Student @ PNUP
 
 Building end-to-end solutions — from embedded firmware to web dashboards.
 
@@ -14,6 +14,7 @@ Building end-to-end solutions — from embedded firmware to web dashboards.
 
 - 🎓 D-IV Teknik Komputer dan Jaringan student at **Politeknik Negeri Ujung Pandang (PNUP)**, Makassar
 - 🛠️ Full-stack developer & technical lead across multiple student and IoT programs
+- ✨ **Vibe coder** — I build fast, iterate faster, and let the flow guide the architecture
 - 🌾 Currently building **[kanrungtech.com](https://kanrungtech.com)** — showcase site for an IoT rotary clove dryer system, as full-stack web dev
 - 🔌 Comfortable across the whole stack: embedded hardware ↔ backend ↔ frontend ↔ mobile
 - 📌 Most of my project repos are private — happy to walk through any of them on request
@@ -51,8 +52,8 @@ Building end-to-end solutions — from embedded firmware to web dashboards.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsFirrr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFirrr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsFirrr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFirrr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
@@ -65,9 +66,8 @@ Building end-to-end solutions — from embedded firmware to web dashboards.
 
 ### 📫 Connect with me
 
-<!-- Tambahkan link kamu di sini, misal: -->
 <p align="left">
-  <a href="mailto:ahmdfirdaus241@gmail.com><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ahmdfirdaus241@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/firrr.af"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
