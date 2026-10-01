@@ -13,7 +13,7 @@ Building end-to-end solutions — from embedded firmware to web dashboards.
 ### 🚀 About Me
 
 - 🎓 D-IV Teknik Komputer dan Jaringan student at **Politeknik Negeri Ujung Pandang (PNUP)**, Makassar
-- 🛠️ Full-stack developer & technical lead across multiple student and IoT programs
+- 🛠️ Non license Junior Full-stack developer & technical lead across multiple student and IoT programs
 - ✨ **Vibe coder** — I build fast, iterate faster, and let the flow guide the architecture
 - 🌾 Currently building **[kanrungtech.com](https://kanrungtech.com)** — showcase site for an IoT rotary clove dryer system, as full-stack web dev
 - 🔌 Comfortable across the whole stack: embedded hardware ↔ backend ↔ frontend ↔ mobile
