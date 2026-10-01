@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmad Firdaus 👋
 
-### Full-Stack Developer | IoT Enthusiast | Vibe Coder ✨ | D-IV TKJ Student @ PNUP
+### IoT Enthusiast | Vibe Coder ✨ | D-IV TKJ Student @ PNUP
 
 Building end-to-end solutions — from embedded firmware to web dashboards.
 
